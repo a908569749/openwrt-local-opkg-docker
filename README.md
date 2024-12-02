@@ -1,2 +1,1 @@
-# openwrt-local-opkg-docker
-openwrt_opkg_docker
+openwrt官方镜像资源太少，第三方打包镜像附带的镜像源经常变更版本，咱们建的网络环境没法跟着第三方经常变更，但是插件偶尔会有调整的需求，所以我把第三方的镜像趴了下来，封装进docker容器里，并且把我之前在第三方站封装的同版本openwrt固件(x86_64)也附上了
